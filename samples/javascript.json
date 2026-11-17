@@ -1,0 +1,91 @@
+{
+  "personalInfo": {
+    "fullName": "HARSHIT VASU",
+    "phone": "+91 6376340519",
+    "email": "harshitvasu@gmail.com",
+    "linkedin": "linkedin.com/in/harshit-vasu",
+    "location": "Bengaluru, India"
+  },
+  "summary": "Dynamic Software Engineer with 2.5+ years of end-to-end product delivery across high-scale platforms at BrowserStack, Zoomcar, and Shipsy. Proficient in Javascript and NodeJS, with experience designing microservices, RESTful APIs, and data-driven systems. Strong foundation in System Design, OOP, TDD, and algorithmic problem-solving. Adept at rapid debugging, root-cause analysis, and building scalable, reliable backend systems.",
+  "skills": [
+    "Languages: JavaScript, TypeScript, Java, Ruby, SQL, Bash",
+    "Frameworks & Libraries: Node.js, Express.js, NestJS, Ruby on Rails, React.js, Spring Boot",
+    "Databases & Messaging: PostgreSQL, MySQL, MongoDB, Apache Kafka",
+    "DevOps & Cloud: AWS, Jenkins, Git, CI/CD",
+    "Core Concepts: Microservices, RESTful APIs, System Design, Data Structures & Algorithms, OOP, TDD"
+  ],
+  "experiences": [
+    {
+      "id": "exp-zoomcar",
+      "jobTitle": "Software Engineer",
+      "companyName": "Zoomcar",
+      "location": "Bengaluru, India",
+      "dateRange": "Jun 2022 – May 2023",
+      "bullets": [
+        "Built a microservice for IVR-based masked calling, handling 60K+ calls/month and reducing support intervention by 80%.",
+        "Implemented an event-driven vehicle health scoring system using Kafka to evaluate vehicle history and automatically block bookings for unsafe vehicles, protecting 3K+ trips/month.",
+        "Developed APIs for trip modifications, refunds, and ledger settlement workflows supporting Chatbot integration.",
+        "Participated in code reviews while mentoring 3 junior developers and working with Product and QA on feature delivery."
+      ]
+    },
+    {
+      "id": "exp-browserstack",
+      "jobTitle": "Software Engineer",
+      "companyName": "BrowserStack",
+      "location": "Mumbai, India",
+      "dateRange": "Jul 2020 – Jan 2022",
+      "bullets": [
+        "Spearheaded the rollout of Quick Integration Guide, BrowserStack's onboarding platform, driving a 30% improvement in primary onboarding metrics.",
+        "Performed deep-stack debugging of automated test failures across application, Node.js-based routing, and device infrastructure layers, resolving production SLA issues for customers across 135+ countries.",
+        "Developed frontend components and analytics functionality for BrowserStack's documentation platform using vanilla Javascript, HTML and CSS, contributing to a 40% improvement in documentation feedback."
+      ]
+    },
+    {
+      "id": "exp-shipsy",
+      "jobTitle": "Software Developer Intern",
+      "companyName": "Shipsy",
+      "location": "Gurugram, India",
+      "dateRange": "Jul 2019 – May 2020",
+      "bullets": [
+        "Developed backend systems using Node.js, NestJS, TypeScript, and PostgreSQL, owning backend development for projects including User Management and Daily Summary Reports."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-mdlite",
+      "projectName": "MD Lite CMS",
+      "technologies": "Express.js, React, MongoDB, Docker, AWS",
+      "dateRange": "2023",
+      "bullets": [
+        "Designed, developed, and deployed a full-stack, Markdown-based content management and note-taking application using React, Express.js, and MongoDB.",
+        "Integrated multiple LLM providers using Vercel AI SDK to enable AI-assisted content drafting and summarization within a TipTap-based rich-text editor."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-be",
+      "degree": "B.E. in Electrical & Electronics Engineering",
+      "institution": "BITS Pilani, Goa Campus",
+      "location": "Goa, India",
+      "dateRange": "2014 – 2020",
+      "details": "Dual Degree Program"
+    },
+    {
+      "id": "edu-msc",
+      "degree": "M.Sc. in Economics",
+      "institution": "BITS Pilani, Goa Campus",
+      "location": "Goa, India",
+      "dateRange": "2014 – 2020",
+      "details": "Dual Degree Program"
+    }
+  ],
+  "settings": {
+    "fontFamily": "Inter",
+    "nameFontFamily": "Cinzel",
+    "fontSize": "xs",
+    "spacing": "normal",
+    "accentColor": "#1e293b"
+  }
+}

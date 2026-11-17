@@ -1,0 +1,101 @@
+{
+  "personalInfo": {
+    "fullName": "HARSHIT VASU",
+    "phone": "+91 6376340519",
+    "email": "harshitvasu@gmail.com",
+    "linkedin": "linkedin.com/in/harshit-vasu",
+    "location": "Bengaluru, India"
+  },
+  "summary": "Dynamic Software Engineer with 2.5+ years of end-to-end product delivery across high‑scale platforms at BrowserStack, Zoomcar, and Shipsy. Proven expertise in designing microservices, RESTful APIs, and data‑driven systems while mastering core concepts such as System Design, OOP, TDD, and algorithmic problem solving. Adept at rapid debugging, root‑cause analysis, and driving reliability for mission‑critical services handling tens of thousands of transactions monthly. Passionate about leveraging cutting‑edge, cloud‑native architectures to translate business needs into robust, maintainable solutions.",
+  "skills": [
+    "Languages: JavaScript, TypeScript, Java, Ruby, SQL, Bash",
+    "Frameworks & Libraries: Node.js, Express.js, NestJS, Ruby on Rails, React.js, Spring Boot",
+    "Databases & Messaging: PostgreSQL, MySQL, MongoDB, Apache Kafka",
+    "DevOps & Cloud: AWS, Jenkins, Git, CI/CD",
+    "Core Concepts: Microservices, RESTful APIs, System Design, Data Structures & Algorithms, OOP, TDD"
+  ],
+  "experiences": [
+    {
+      "id": "exp-1793815288816",
+      "jobTitle": "Independent Full Stack Developer",
+      "companyName": "Self Directed",
+      "location": "",
+      "dateRange": "May 2023 - Present",
+      "bullets": [
+        "Engineered and deployed an end-to-end Content Management System & note-taking web app (Express.js, React, MongoDB, Docker, AWS)",
+        "Built a low-latency WebRTC SFU streaming platform for live classroom audio, video, and whiteboard canvas synchronization."
+      ]
+    },
+    {
+      "id": "exp-1793811378028",
+      "jobTitle": "Sabbatical",
+      "companyName": "Civil Services Preparation",
+      "location": "",
+      "dateRange": "May 2023 - May 2026",
+      "bullets": [
+        "Undertook a planned career break for Indian Civil Services (UPSC) Preparation while staying up to date with modern Software development practices and personal projects."
+      ]
+    },
+    {
+      "id": "exp-zoomcar",
+      "jobTitle": "Software Engineer",
+      "companyName": "Zoomcar",
+      "location": "Bengaluru, India",
+      "dateRange": "Jun 2022 – May 2023",
+      "bullets": [
+        "Built a Spring Boot microservice for IVR-based masked calling, handling 60K+ calls/month and reducing support intervention by 80%.",
+        "Implemented an event-driven vehicle health scoring system using Kafka to evaluate vehicle history and automatically block bookings for unsafe vehicles, protecting 3K+ trips/month.",
+        "Developed Ruby on Rails APIs for trip modifications, refunds, and ledger settlement workflows supporting Chatbot integration.",
+        "Participated in code reviews while mentoring 3 junior developers and working with Product and QA on feature delivery."
+      ]
+    },
+    {
+      "id": "exp-browserstack",
+      "jobTitle": "Software Engineer",
+      "companyName": "BrowserStack",
+      "location": "Mumbai, India",
+      "dateRange": "Jul 2020 – Jan 2022",
+      "bullets": [
+        "Spearheaded the rollout of Quick Integration Guide, BrowserStack's onboarding platform in Ruby on Rails, driving a 30% improvement in primary onboarding metrics.",
+        "Performed deep-stack debugging of automated test failures spanning application, routing, and device infrastructure layers, resolving production SLA issues for customers across 135+ countries.",
+        "Developed frontend components and analytics functionality for BrowserStack's documentation platform, contributing to a 40% improvement in documentation feedback."
+      ]
+    },
+    {
+      "id": "exp-shipsy",
+      "jobTitle": "Software Developer Intern",
+      "companyName": "Shipsy",
+      "location": "Gurugram, India",
+      "dateRange": "Jul 2019 – May 2020",
+      "bullets": [
+        "Developed backend systems using Node.js, NestJS, TypeScript, and PostgreSQL, owning backend development for projects including User Management and Daily Summary Reports."
+      ]
+    }
+  ],
+  "projects": [],
+  "education": [
+    {
+      "id": "edu-be",
+      "degree": "B.E. in Electrical & Electronics Engineering",
+      "institution": "BITS Pilani, Goa Campus",
+      "location": "Goa, India",
+      "dateRange": "2014 – 2020",
+      "details": "Dual Degree Program"
+    },
+    {
+      "id": "edu-msc",
+      "degree": "M.Sc. in Economics",
+      "institution": "BITS Pilani, Goa Campus",
+      "location": "Goa, India",
+      "dateRange": "2014 – 2020",
+      "details": "Dual Degree Program"
+    }
+  ],
+  "settings": {
+    "fontFamily": "Inter",
+    "nameFontFamily": "Cinzel",
+    "fontSize": "sm",
+    "spacing": "compact",
+    "accentColor": "#1e293b"
+  }
+}
